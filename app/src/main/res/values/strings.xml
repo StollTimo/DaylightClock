@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaylightClock</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="textViewItem" />
+    <string name="action_btn_add_alarm"/>
+    <string name="list_example_text">Alarm</string>
+</resources>
