@@ -23,7 +23,6 @@ import java.util.Calendar;
  */
 public class TimePickerFragment extends DialogFragment implements TimePickerDialog.OnTimeSetListener {
 
-    // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
@@ -40,7 +39,6 @@ public class TimePickerFragment extends DialogFragment implements TimePickerDial
      * @param param2 Parameter 2.
      * @return A new instance of fragment TimePickerFragment.
      */
-    // TODO: Rename and change types and number of parameters
     public static TimePickerFragment newInstance(String param1, String param2) {
         TimePickerFragment fragment = new TimePickerFragment();
         Bundle args = new Bundle();
